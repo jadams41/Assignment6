@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ExprC",
+	"category" : "Assignment6",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cond",
+		"left",
+		"right"
+	],
+	"name" : "IfC",
+	"type" : "normal"
+}
