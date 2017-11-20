@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ExprC",
+	"category" : "Assignment6",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"b"
+	],
+	"name" : "BoolC",
+	"type" : "normal"
+}

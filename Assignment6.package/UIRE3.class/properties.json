@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Assignment6",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "UIRE3",
+	"type" : "normal"
+}
