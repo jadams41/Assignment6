@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ExprC",
+	"category" : "Assignment6",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"left",
+		"right"
+	],
+	"name" : "EqualC",
+	"type" : "normal"
+}

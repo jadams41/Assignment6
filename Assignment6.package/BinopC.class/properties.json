@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ExprC",
+	"category" : "Assignment6",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"op",
+		"left",
+		"right"
+	],
+	"name" : "BinopC",
+	"type" : "normal"
+}
